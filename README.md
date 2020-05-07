@@ -53,3 +53,14 @@ The results can be found in the Results folder of this repository.
 
 ## 5. Data Analysis and Modelling
 
+Correlation Matrix Heatmap
+![Correlation Matrix Heatmap](https://user-images.githubusercontent.com/25824881/81291941-5f79ef00-9088-11ea-80ba-d3b92c006039.png)
+
+Tuning KNN model
+![Tuning KNN model](https://user-images.githubusercontent.com/25824881/81292130-aff14c80-9088-11ea-9e56-8d669cd0a0e8.png)
+
+ROC curve
+![ROC curve](https://user-images.githubusercontent.com/25824881/81292233-d911dd00-9088-11ea-92e4-5943729de493.png)
+
+Feature Importance
+![feature importance](https://user-images.githubusercontent.com/25824881/81292258-e5963580-9088-11ea-9217-5e61f0b91e26.png)
