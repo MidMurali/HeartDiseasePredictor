@@ -3,6 +3,9 @@
 This project applies various Machine Learning and Data Science python-based tools like *pandas, numpy, matplotlib, scikit-learn etc.*, to predict whether a patient has heart disease or not, given medical attributes.
 
 Note: This project has been completely done on a Colab notebook, hence no environment setup in the github repo.
+https://colab.research.google.com/drive/1lRqch_liVMrd6pLUx-3gj2Rpis7UX4N6?usp=sharing
+
+Notify me if you want to get added.
 
 ## Approaches:
 1) Problem Definition
@@ -43,3 +46,10 @@ Create a data dictionary
 * ca - number of major vessels (0-3) colored by flourosopy
 * thal - thalium stress result
 * target - have disease or not (1 = yes, 0 = no)
+
+Note: Visit https://archive.ics.uci.edu/ml/datasets/Heart+Disease if you seek elaboration on parameters.
+
+The results can be found in the Results folder of this repository.
+
+## 5. Data Analysis and Modelling
+
