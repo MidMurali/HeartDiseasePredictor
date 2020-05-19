@@ -5,8 +5,6 @@ This project applies various Machine Learning and Data Science python-based tool
 Note: This project has been completely done on a Colab notebook, hence no environment setup in the github repo.
 https://colab.research.google.com/drive/1lRqch_liVMrd6pLUx-3gj2Rpis7UX4N6?usp=sharing
 
-Notify me if you want to get added.
-
 ## Approaches:
 1) Problem Definition
 2) Data
